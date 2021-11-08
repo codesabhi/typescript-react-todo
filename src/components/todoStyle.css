@@ -29,14 +29,14 @@
     right: 0px;
     border: none;
     font-size: 15px;
-    background-color: #2f74c0;
+    background-color: rgb(99, 71, 126);
     color: white;
     transition: 0.2s all;
     box-shadow: 0 0 10px black;
   }
 
   .input_submit:hover {
-    background-color: #388ae2;
+    background-color: rgb(161, 85, 233);
   }
 
   .input_submit:active {
